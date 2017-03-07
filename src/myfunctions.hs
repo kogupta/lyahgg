@@ -72,12 +72,3 @@ toString xs = "The list is " ++ what xs
     what [] = "empty."
     what [_] = "a singleton list."
     what _ = "a longer list."
-
-
-
-
-
-
-
-
-
